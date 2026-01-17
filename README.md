@@ -5,6 +5,8 @@
 **CS50 Millionaire** is a quiz game inspired by the Brazilian TV show **“Show do Milhão”**, which itself is a localized version of the famous show *Who Wants to Be a Millionaire?*.  
 This project was developed in **Scratch** as part of **CS50 (2026), Harvard University**.
 
+![CS50 Millionaire Screenshot](screenshot/game.png)
+
 ---
 
 ## 📌 About the Project
